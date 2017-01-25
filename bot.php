@@ -1,3 +1,3 @@
 <?php
 echo "OK";
-$ composer require linecorp/line-bot-sdk
+$composer require linecorp/line-bot-sdk
